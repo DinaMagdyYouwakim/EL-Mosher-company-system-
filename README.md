@@ -1,6 +1,7 @@
 # 🏢 Company Management System (MVC Web Application)
 
 🎬 [Watch Demo Video](videos/1 (online-video-cutter.com).mp4)
+<video src="videos/1 (online-video-cutter.com).mp4" controls width="600"></video>
 
 
 ## 📘 Overview
