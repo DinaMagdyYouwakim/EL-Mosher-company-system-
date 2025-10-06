@@ -1,5 +1,8 @@
 # 🏢 Company Management System (MVC Web Application)
 
+🎬 [Watch Demo Video](videos/1 (online-video-cutter.com).mp4)
+
+
 ## 📘 Overview
 A web application developed using **ASP.NET MVC architecture** to help companies manage their daily operations efficiently.  
 This project was built as an **academic team project** to apply software development and system design concepts.
